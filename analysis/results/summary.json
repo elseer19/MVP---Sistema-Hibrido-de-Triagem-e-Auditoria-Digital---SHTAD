@@ -1,0 +1,97 @@
+{
+  "params": {
+    "seed": 42,
+    "n_patients": 1000,
+    "n_replicates": 500,
+    "p_leve": 0.7,
+    "p_prefere_presencial": 0.2
+  },
+  "media_trad_mean": 132.8376350867899,
+  "media_trad_ic95": [
+    127.20951805387136,
+    138.61027980942558
+  ],
+  "media_hib_mean": 15.273735095222294,
+  "media_hib_ic95": [
+    14.308706035859025,
+    16.288618114222643
+  ],
+  "diff_mean": 117.56389999156762,
+  "diff_ic95": [
+    111.7291695468262,
+    123.39394323113615
+  ],
+  "counts_by_color_mean": {
+    "VERMELHO": 221.124,
+    "LARANJA": 38.552,
+    "AMARELO": 175.35,
+    "VERDE": 315.186,
+    "AZUL": 249.788
+  },
+  "counts_by_color_ic95": {
+    "VERMELHO": [
+      192.475,
+      247.0
+    ],
+    "LARANJA": [
+      28.0,
+      52.0
+    ],
+    "AMARELO": [
+      152.0,
+      200.0
+    ],
+    "VERDE": [
+      285.0,
+      342.0
+    ],
+    "AZUL": [
+      223.475,
+      278.0
+    ]
+  },
+  "hib_by_color_mean": {
+    "VERMELHO": 221.124,
+    "LARANJA": 38.552,
+    "AMARELO": 175.35,
+    "VERDE": 252.298,
+    "AZUL": 199.444
+  },
+  "hib_by_color_ic95": {
+    "VERMELHO": [
+      192.475,
+      247.0
+    ],
+    "LARANJA": [
+      28.0,
+      52.0
+    ],
+    "AMARELO": [
+      152.0,
+      200.0
+    ],
+    "VERDE": [
+      226.0,
+      280.0
+    ],
+    "AZUL": [
+      176.0,
+      224.0
+    ]
+  },
+  "trad_time_by_color_mean": {
+    "VERMELHO": 20.03768545288127,
+    "LARANJA": 30.061351625637194,
+    "AMARELO": 59.97357916986523,
+    "VERDE": 180.1372889151546,
+    "AZUL": 240.0206674320079
+  },
+  "hib_time_by_color_mean": {
+    "VERMELHO": 10.005578295889467,
+    "LARANJA": 12.003418117643886,
+    "AMARELO": 20.00879953811421,
+    "VERDE": 15.420510718826458,
+    "AZUL": 16.935940924114004
+  },
+  "timestamp": "2026-05-13T15:03:20.760007Z"
+}

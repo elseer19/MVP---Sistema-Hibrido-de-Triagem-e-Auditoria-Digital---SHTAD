@@ -187,6 +187,7 @@ class _TelaTriagemHibridaState extends State<TelaTriagemHibrida> {
       _analiseFinalizada = true;
     });
   }
+  @override
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
